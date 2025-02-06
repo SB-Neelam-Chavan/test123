@@ -1,0 +1,12 @@
+title: AccountType
+x-stoplight:
+  id: 5cnt32khfyjn7
+type: string
+description: Account Type
+enum:
+  - CURRENT
+  - SAVINGS
+  - SUB_ACCOUNT
+  - DEDICATED
+  - MONEYPOT
+  - TECHNICAL

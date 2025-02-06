@@ -1,0 +1,8 @@
+title: RelationSide
+x-stoplight:
+  id: s3dom3ajp79o6
+description: Indicates if identity is target or originator in relation to associated party
+type: string
+enum:
+  - originator
+  - target
